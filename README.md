@@ -22,8 +22,6 @@ User records are stored in the Redux store and backed up using _LocalStorage_ fo
 
 ## Running the Project
 
-1. Install dependencies:
-
 ```bash
 npm install
 npm run dev
